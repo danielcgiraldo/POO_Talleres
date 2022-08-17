@@ -16,4 +16,4 @@ Hola 👋 cada taller se encuentra en una carpeta con su nombre en ella. Sin emb
 
 Atentamente,\
 Daniel,\
-Estudiante Ingeniería de Sistemas\
+Estudiante Ingeniería de Sistemas
