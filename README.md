@@ -14,6 +14,6 @@ Hola 👋 cada taller se encuentra en una carpeta con su nombre en ella. Sin emb
 | [Taller 2](https://github.com/danielcgiraldo/POO_Talleres) |
 | [Taller 3](https://github.com/danielcgiraldo/POO_Talleres) |
 
-Atentamente,
-Daniel,
-Estudiante Ingeniería de Sistemas
+Atentamente,\
+Daniel,\
+Estudiante Ingeniería de Sistemas\
