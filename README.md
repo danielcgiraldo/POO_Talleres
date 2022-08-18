@@ -6,7 +6,7 @@
 | **Asignatura:** | Programación Orientada a Objetos |
 | **Profesor:** | Walter Arboleda |
 
-Hola 👋 cada taller se encuentra en una carpeta con su nombre en ella. Sin embargo, en la tabla inferior se adjuntan los hipervínculos a cada uno de ellos.
+Hola 👋 cada ejercicio resuelto se encuentra en la carpeta src dentro de la carpeta que tiene el nombre del taller. Sin embargo, en la tabla inferior se adjuntan los hipervínculos a cada uno de ellos.
 
 | Talleres |
 | --- |
