@@ -11,7 +11,7 @@ Hola 👋 cada ejercicio resuelto se encuentra en la carpeta src dentro de la ca
 | Talleres |
 | --- |
 | [Taller 1](https://github.com/danielcgiraldo/POO_Talleres/tree/main/Taller%201/src) |
-| [Taller 2](https://github.com/danielcgiraldo/POO_Talleres/tree/main/Taller%202/src) |
+| [Taller 2](https://github.com/danielcgiraldo/POO_Talleres/tree/main/Taller%202) |
 | [Taller 3](https://github.com/danielcgiraldo/POO_Talleres/tree/main/Taller%203/src) |
 
 Atentamente,\
